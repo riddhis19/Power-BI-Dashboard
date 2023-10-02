@@ -11,4 +11,5 @@ After loading out file we have to analyse if the data is clean. If it is require
 For maping " Map " option is available. Add required fields to it.
 Then for Segment and Market positioning I have used Pie Chart and Donut Chart. You can set visibility of data in those charts according to your preference. Here I have kept it minimal.
 I have represented Top Customers through Column Chart, Profit and Loss by Stacked Bar Chart and again we can alter them according to our preference.
+<br>
 This Project covered: Data Analysis, Data Cleaning, Data Altering.
