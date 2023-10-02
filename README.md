@@ -3,6 +3,7 @@
 <br>
 This is a sample Repository for Power BI Dashboard including steps to create it. I have created this using random data from internet and Tool for Power BI Dashboard.
 <br>
+<br>
 **Steps to create it** :
 - Firstly, whoever wants to create this dashboard need to have Power BI tool on their machine which you can download it from internet. It is very easy to install and the link is as below.
 Click on this link (  https://powerbi.microsoft.com/en-in/downloads/  ) then look for the option to download it. Click on the downloaded link and install on your computer.
